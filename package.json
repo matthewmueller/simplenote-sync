@@ -5,8 +5,7 @@
   "keywords": [],
   "author": "Matthew Mueller <mattmuelle@gmail.com>",
   "dependencies": {
-    "array.js": "~0.2.0",
-    "simplenote": "0.0.1",
+    "simplenote": "0.0.2",
     "batch": "~0.2.1"
   },
   "devDependencies": {
